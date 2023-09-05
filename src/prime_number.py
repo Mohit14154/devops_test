@@ -16,6 +16,5 @@ def PrimeChecker(a):
         print(a, "is not a prime number")  
 # Taking an input number from the user  
 a = int(input("Enter an input number:"))  
-# Printing result  
-PrimeChecker(a)  
-
+ 
+PrimeChecker(a)
